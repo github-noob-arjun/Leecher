@@ -58,7 +58,7 @@ OWNER_ID = 1266733572
 
 # Get these values from my.telegram.org
 # to store the channel ID who are authorized to use the bot
-AUTH_CHANNEL = [-1001585076108 -1001585076108]
+AUTH_CHANNEL = "-1001585076108"
 
 # the download location, where the HTTP Server runs
 DOWNLOAD_LOCATION = "./DOWNLOADS"
