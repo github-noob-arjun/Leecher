@@ -51,14 +51,14 @@ dotenv.load_dotenv("config.env")
      #   exit()
 
 # The Telegram API things
-TG_BOT_TOKEN = "5135176286:AAG6mM3_V84Gi31i_89ezbkUXK0cHvx_8VQ"
+TG_BOT_TOKEN = "5135176286:AAE0LNJahYi-BJ3jO1A_9mP13HmR7qPuGg4"
 APP_ID = 4738674
 API_HASH = "f2be74eaa9b1cb32498f45d04e4dbb54"
 OWNER_ID = 1266733572
 
 # Get these values from my.telegram.org
 # to store the channel ID who are authorized to use the bot
-AUTH_CHANNEL = -1001585076108
+AUTH_CHANNEL = 1266733572
 
 # the download location, where the HTTP Server runs
 DOWNLOAD_LOCATION = "./DOWNLOADS"
